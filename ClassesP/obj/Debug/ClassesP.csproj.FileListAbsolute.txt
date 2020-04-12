@@ -1,0 +1,15 @@
+c:\Users\HobaY\documents\visual studio 2017\Projects\TestArea\ClassesP\bin\Debug\ClassesP.dll
+c:\Users\HobaY\documents\visual studio 2017\Projects\TestArea\ClassesP\bin\Debug\ClassesP.pdb
+c:\Users\HobaY\documents\visual studio 2017\Projects\TestArea\ClassesP\obj\Debug\ClassesP.dll
+c:\Users\HobaY\documents\visual studio 2017\Projects\TestArea\ClassesP\obj\Debug\ClassesP.pdb
+c:\Users\HobaY\documents\visual studio 2017\Projects\TestArea\ClassesP\obj\Debug\ClassesP.csprojResolveAssemblyReference.cache
+c:\Users\HobaY\documents\visual studio 2017\Projects\TestArea\ClassesP\obj\Debug\ClassesP.Properties.Resources.resources
+c:\Users\HobaY\documents\visual studio 2017\Projects\TestArea\ClassesP\obj\Debug\ClassesP.csproj.GenerateResource.Cache
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\TestArea\ClassesP\obj\Debug\ClassesP.csproj.CoreCompileInputs.cache
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\ClassesP\bin\Debug\ClassesP.dll
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\ClassesP\bin\Debug\ClassesP.pdb
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\ClassesP\obj\Debug\ClassesP.csprojAssemblyReference.cache
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\ClassesP\obj\Debug\ClassesP.Properties.Resources.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\ClassesP\obj\Debug\ClassesP.csproj.GenerateResource.cache
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\ClassesP\obj\Debug\ClassesP.dll
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\ClassesP\obj\Debug\ClassesP.pdb

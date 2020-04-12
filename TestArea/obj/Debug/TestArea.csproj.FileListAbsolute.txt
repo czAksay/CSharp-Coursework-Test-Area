@@ -1,0 +1,26 @@
+c:\users\hobay\documents\visual studio 2017\Projects\TestArea\TestArea\obj\Debug\TestArea.csprojResolveAssemblyReference.cache
+c:\users\hobay\documents\visual studio 2017\Projects\TestArea\TestArea\obj\Debug\TestArea.csproj.GenerateResource.Cache
+c:\users\hobay\documents\visual studio 2017\Projects\TestArea\TestArea\bin\Debug\TestArea.exe.config
+c:\users\hobay\documents\visual studio 2017\Projects\TestArea\TestArea\bin\Debug\TestArea.exe
+c:\users\hobay\documents\visual studio 2017\Projects\TestArea\TestArea\bin\Debug\TestArea.pdb
+c:\users\hobay\documents\visual studio 2017\Projects\TestArea\TestArea\obj\Debug\TestArea.exe
+c:\users\hobay\documents\visual studio 2017\Projects\TestArea\TestArea\obj\Debug\TestArea.pdb
+c:\users\hobay\documents\visual studio 2017\Projects\TestArea\TestArea\obj\Debug\TestAreaNS.AddVol.resources
+c:\users\hobay\documents\visual studio 2017\Projects\TestArea\TestArea\obj\Debug\TestAreaNS.FTestArea.resources
+c:\users\hobay\documents\visual studio 2017\Projects\TestArea\TestArea\bin\Debug\ClassesP.dll
+c:\users\hobay\documents\visual studio 2017\Projects\TestArea\TestArea\bin\Debug\ClassesP.pdb
+c:\users\hobay\documents\visual studio 2017\Projects\TestArea\TestArea\obj\Debug\TestAreaNS.Inject.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\TestArea\TestArea\obj\Debug\TestArea.csproj.CoreCompileInputs.cache
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\TestArea\bin\Debug\TestArea.exe.config
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\TestArea\bin\Debug\TestArea.exe
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\TestArea\bin\Debug\TestArea.pdb
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\TestArea\bin\Debug\ClassesP.dll
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\TestArea\bin\Debug\ClassesP.pdb
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\TestArea\obj\Debug\TestArea.csprojAssemblyReference.cache
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\TestArea\obj\Debug\TestAreaNS.AddVol.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\TestArea\obj\Debug\TestAreaNS.FTestArea.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\TestArea\obj\Debug\TestAreaNS.Inject.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\TestArea\obj\Debug\TestArea.csproj.GenerateResource.cache
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\TestArea\obj\Debug\TestArea.csproj.CopyComplete
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\TestArea\obj\Debug\TestArea.exe
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\TestArea\TestArea\obj\Debug\TestArea.pdb
